@@ -1,0 +1,5 @@
+---
+# defaults file
+rear_pkgs: rear, syslinux, genisoimage
+nfs_server: "127.0.0.1"
+nfs_dir: "backup_dir"
